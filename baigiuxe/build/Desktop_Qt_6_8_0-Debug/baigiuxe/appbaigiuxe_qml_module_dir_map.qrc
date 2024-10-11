@@ -1,0 +1,6 @@
+<RCC>
+  <qresource prefix="/">
+    <file alias="/qt/qml/baigiuxe">/home/hung/Desktop/qtprojects/baigiuxe/build/Desktop_Qt_6_8_0-Debug/baigiuxe</file>
+
+  </qresource>
+</RCC>

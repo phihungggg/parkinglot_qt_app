@@ -1,0 +1,5 @@
+module baigiuxe
+typeinfo appbaigiuxe.qmltypes
+prefer :/qt/qml/baigiuxe/
+Main 1.0 Main.qml
+
